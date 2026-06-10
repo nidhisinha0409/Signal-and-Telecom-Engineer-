@@ -26,5 +26,3 @@ Clone this repository and explore the individual project directories for specifi
 - Signal analysis libraries
 
 ---
-
-**Note**: Feel free to customize this based on the actual content, languages, and specific technologies your internship project uses. If you can add more specific details about what your project contains, I can refine this further!
